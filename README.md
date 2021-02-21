@@ -4,14 +4,14 @@ Count the number of occurrence of the given word in the string and print the num
 
 Example:
 
-aaabbc --> a3b2c
-aaabaaa --> a3ba3
-abcde --> abcde
-abcdeee --> abcde3
-abbbbbcdeee  --> ab5cde3
-a -> a
-aaaaaa -> a6 
-"" --> ""
+aaabbc --> a3b2c\
+aaabaaa --> a3ba3\
+abcde --> abcde\
+abcdeee --> abcde3\
+abbbbbcdeee  --> ab5cde3\
+a -> a\
+aaaaaa -> a6\ 
+"" --> ""\
 
 ## Test it 
 
