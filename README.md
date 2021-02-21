@@ -11,7 +11,7 @@ abcdeee --> abcde3\
 abbbbbcdeee  --> ab5cde3\
 a -> a\
 aaaaaa -> a6\
-"" --> ""\
+"" --> ""
 
 ## Test it 
 
